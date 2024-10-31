@@ -303,7 +303,6 @@ Aviso importante
 
 Este projeto não é afiliado à Meta, WhatsApp ou qualquer outra empresa. A utilização do código fornecido é da exclusiva responsabilidade dos utilizadores e não implica qualquer responsabilidade para o autor ou colaboradores do projeto.
 
-## Tornou sua vida mais fácil?
-----------------------
-Se este projeto ajudou você em uma tarefa complexa, considere fazer uma doação ao autor PIX Ou Picpay.
-Chave : e5c88400-f9cd-4e66-84a6-e9070c5fef59 
+## CONSULTORIA PARTICULAR ##
+PARA CONSULTORIA PARTICULAR CHAMAR (SERÁ COBRADO POR ISSO) +27 98900-1165
+----VERSÃO API EM BAYLES----
