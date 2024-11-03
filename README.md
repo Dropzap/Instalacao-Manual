@@ -283,6 +283,10 @@ Realize o build do frontend
 npm run build
 ```
 
+```javascript
+npx update-browserslist-db@latest
+```
+
 ### adiciona o servidor frontend no pm2
 
 ```javascript
