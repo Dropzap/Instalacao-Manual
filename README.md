@@ -308,5 +308,5 @@ Aviso importante
 Este projeto não é afiliado à Meta, WhatsApp ou qualquer outra empresa. A utilização do código fornecido é da exclusiva responsabilidade dos utilizadores e não implica qualquer responsabilidade para o autor ou colaboradores do projeto.
 
 ## CONSULTORIA PARTICULAR ##
-PARA CONSULTORIA PARTICULAR CHAMAR (SERÁ COBRADO POR ISSO) +27 98900-1165
+PARA CONSULTORIA PARTICULAR CHAMAR (SERÁ COBRADO POR ISSO) +27 98900-1165 ou zapboot@hotmail.com
 ----VERSÃO API EM BAYLES----
